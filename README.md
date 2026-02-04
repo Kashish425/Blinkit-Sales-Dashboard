@@ -93,4 +93,7 @@ Tracks long-term sales trends by outlet establishment year.
 
 **Performance Monitoring:** Consistent ratings across outlet types indicate stable customer satisfaction.
 
-**6. ScreenShot**
+**6. ScreenShot**       
+
+https://github.com/Kashish425/Blinkit-Sales-Dashboard/blob/main/Total%20Sales.png
+
