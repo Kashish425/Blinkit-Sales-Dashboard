@@ -95,5 +95,6 @@ Tracks long-term sales trends by outlet establishment year.
 
 **6. ScreenShot**       
 
-https://github.com/Kashish425/Blinkit-Sales-Dashboard/blob/main/Total%20Sales.png
+![Dashboard Screenshot](
+
 
